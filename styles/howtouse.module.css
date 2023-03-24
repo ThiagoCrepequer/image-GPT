@@ -1,0 +1,16 @@
+.section {
+    text-align: center;
+    width: 40%;
+}
+
+.container {
+    text-align: start;
+}
+
+.titulos {
+    margin-top: 20px;
+}
+
+.p {
+    text-indent: 10px;
+}
